@@ -18,3 +18,4 @@ This Python script provides a reliable way to sync and store transactions for a 
 ## Installation
 
 1. Clone this repository:
+2. replace '0.0.626047' with the target account id
